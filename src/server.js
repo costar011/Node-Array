@@ -27,8 +27,8 @@ app.listen(PORT, () => {
     arr.push("배");
     arr.push("복숭아");
 
-    
-    // 데이터가 추가 된 arr을 출력한다.
+     
+    // 데이터가 추가 된 arr을 출력한다. .
     console.log(arr);
     
 
